@@ -1,6 +1,6 @@
 //your JS code here. If required.
-const changeButton=document.getElementById("changeColor");
-const rstButton=document.getElementById("reset_button");
+const changeButton=document.getElementById("change_button");
+const rstButton=document.getElementById("Reset");
 
 changeButton.addEventListener("click",function(){
 
